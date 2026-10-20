@@ -88,9 +88,6 @@ electronics projects. Watching the Golden State Warriors, and a big fan of Marve
 ### GitHub stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=urfan-zeynalov&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urfan-zeynalov&layout=compact&theme=transparent&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=urfan-zeynalov&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=urfan-zeynalov&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide_rank=true&card_width=320" />
+  <img height="170" src="https://streak-stats.demolab.com?user=urfan-zeynalov&theme=transparent&hide_border=true" />
 </p>
