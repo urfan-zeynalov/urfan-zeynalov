@@ -81,9 +81,10 @@ hardware and software meet.
 
 ### Outside the lab
 
-Following Formula 1, especially the power unit side. Taking part in football analytics hackathons
-as an FC Barcelona fan. Collecting CDs and hunting for retro audio gear, which tends to turn into
-electronics projects. Watching the Golden State Warriors, and a big fan of Marvel.
+- 🏎️ **Formula 1:** especially the power unit and hybrid systems side
+- ⚽🏀 **FC Barcelona:** competing in the More Than A Hack 2027 football analytics hackathon and watching **Golden State Warriors**
+- 💿 **Retro audio:** CDs and old audio gear, which tend to turn into electronics projects
+- 🦸‍♂️ **Marvel:**building engineering projects and collecting figures, posters and CD's
 
 ### GitHub stats
 
