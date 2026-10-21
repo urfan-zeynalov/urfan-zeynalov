@@ -27,7 +27,7 @@ hardware and software meet.
 
 ### Currently working on
 
-- **Arduino Uno R3:** embedded C/C++ fundamentals, including GPIO, PWM, shift registers, sensors and motors
+- 
 - **Python:** Python for Everybody (Py4E)
 - **More Than A Hack 2027:** FC Barcelona × Metrica Sports football analytics hackathon
 - **Portfolio website**
