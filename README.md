@@ -32,15 +32,12 @@ hardware and software meet.
 - **More Than A Hack 2027:** FC Barcelona × Metrica Sports football analytics hackathon
 - **Portfolio website**
 
-### Completed projects
+### Projects
 
 | Project | What it covers | Tools | Repo |
 |---------|----------------|-------|:----:|
-| DC Motor Switching Circuit | Transistor as a low-side switch, flyback diode protection | Arduino Uno R3, Tinkercad | [→](https://github.com/urfan-zeynalov/dc-motor-switching-circuit) |
-| DC Motor Two-Way Push Button Control | Bidirectional motor control with push-button input | Arduino Uno R3, Tinkercad | [→](https://github.com/urfan-zeynalov/dc-motor-two-way-control) |
-| Arduino Uno R3 Projects | Smaller builds: ultrasonic distance sensor, 74HC595 shift register bit flipper, and more | Arduino Uno R3, Tinkercad | [→](https://github.com/urfan-zeynalov/arduino-uno-r3-projects) |
-
-<sub>All projects so far are simulated in Tinkercad. Real-hardware versions are on the way.</sub>
+| DC Motor Switching Circuit | Arduino-controlled DC motor switching with an NPN transistor and flyback diode protection | Arduino Uno R3, Tinkercad | [→](https://github.com/urfan-zeynalov/DC-Motor-Switching-Circuit) |
+| More Than A Hack 2027 | Frame-by-frame ball possession from tracking data, for a Metrica Sports × FC Barcelona hackathon | Python | [→](https://github.com/urfan-zeynalov/more-than-a-hack-2027) |
 
 ### Roadmap
 
