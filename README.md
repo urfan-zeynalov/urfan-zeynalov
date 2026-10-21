@@ -81,7 +81,7 @@ hardware and software meet.
 - 🏎️ **Formula 1:** especially the power unit and hybrid systems side
 - ⚽🏀 **FC Barcelona:** competing in the More Than A Hack 2027 football analytics hackathon and watching **Golden State Warriors**
 - 💿 **Retro audio:** CDs and old audio gear, which tend to turn into electronics projects
-- 🦸‍♂️ **Marvel:**building engineering projects and collecting figures, posters and CD's
+- 🦸‍♂️ **Marvel: **building engineering projects and collecting figures, posters and CDs
 
 ### GitHub stats
 
