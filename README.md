@@ -27,17 +27,15 @@ hardware and software meet.
 
 ### Currently working on
 
-- 
-- **Python:** Python for Everybody (Py4E)
-- **More Than A Hack 2027:** FC Barcelona × Metrica Sports football analytics hackathon
-- **Portfolio website**
+- Circuit Theory
+- Communication Protocols
+- KiCad
 
 ### Projects
 
 | Project | What it covers | Tools | Repo |
 |---------|----------------|-------|:----:|
 | DC Motor Switching Circuit | Arduino-controlled DC motor switching with an NPN transistor and flyback diode protection | Arduino Uno R3, Tinkercad | [→](https://github.com/urfan-zeynalov/DC-Motor-Switching-Circuit) |
-| More Than A Hack 2027 | Frame-by-frame ball possession from tracking data, for a Metrica Sports × FC Barcelona hackathon | Python | [→](https://github.com/urfan-zeynalov/more-than-a-hack-2027) |
 
 ### Roadmap
 
